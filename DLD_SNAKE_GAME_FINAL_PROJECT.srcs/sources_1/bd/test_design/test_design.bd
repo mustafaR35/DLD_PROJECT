@@ -1,0 +1,21 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7a35tcpg236-1",
+      "name": "test_design",
+      "rev_ctrl_bd_flag": "RevCtrlBdOff",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2020.1"
+    },
+    "design_tree": {
+      "v_osd_0": ""
+    },
+    "components": {
+      "v_osd_0": {
+        "vlnv": "xilinx.com:ip:v_osd:6.0",
+        "xci_name": "test_design_v_osd_0_0"
+      }
+    }
+  }
+}

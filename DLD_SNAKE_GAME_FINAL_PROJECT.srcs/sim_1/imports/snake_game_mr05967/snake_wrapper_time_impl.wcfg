@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="msm_tb_time_impl.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="msm_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="907056fs"></ZoomEndTime>
+      <Cursor1Time time="25284fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="202"></NameColumnWidth>
+      <ValueColumnWidth column_width="86"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/msm_tb/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/LEFT" type="logic">
+      <obj_property name="ElementShortName">LEFT</obj_property>
+      <obj_property name="ObjectShortName">LEFT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/UP" type="logic">
+      <obj_property name="ElementShortName">UP</obj_property>
+      <obj_property name="ObjectShortName">UP</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/DOWN" type="logic">
+      <obj_property name="ElementShortName">DOWN</obj_property>
+      <obj_property name="ObjectShortName">DOWN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/RIGHT" type="logic">
+      <obj_property name="ElementShortName">RIGHT</obj_property>
+      <obj_property name="ObjectShortName">RIGHT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/WIN" type="logic">
+      <obj_property name="ElementShortName">WIN</obj_property>
+      <obj_property name="ObjectShortName">WIN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/LOST" type="logic">
+      <obj_property name="ElementShortName">LOST</obj_property>
+      <obj_property name="ObjectShortName">LOST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/M_STATE" type="array">
+      <obj_property name="ElementShortName">M_STATE[1:0]</obj_property>
+      <obj_property name="ObjectShortName">M_STATE[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/score" type="array">
+      <obj_property name="ElementShortName">score[3:0]</obj_property>
+      <obj_property name="ObjectShortName">score[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/w" type="logic">
+      <obj_property name="ElementShortName">w</obj_property>
+      <obj_property name="ObjectShortName">w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/msm_tb/l" type="logic">
+      <obj_property name="ElementShortName">l</obj_property>
+      <obj_property name="ObjectShortName">l</obj_property>
+   </wvobject>
+</wave_config>
